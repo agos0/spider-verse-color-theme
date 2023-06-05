@@ -1,0 +1,21 @@
+{
+  "name": "spiderverse-color-theme",
+  "displayName": "Spider-Verse Color Theme",
+  "description": "a color theme based off of the spiderverse movies",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spider-Verse Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spider-verse-color-theme.json"
+      }
+    ]
+  }
+}
